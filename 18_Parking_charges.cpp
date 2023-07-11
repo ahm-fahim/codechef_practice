@@ -6,6 +6,11 @@ int main() {
 
     cin >> x >> y >> h;
 
+    if(h <= 1){
+        cout << x << endl;
+    }else{
+        cout << x + (h-1)* y << endl;
+    }
 
     return 0;
 }
