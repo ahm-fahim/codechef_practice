@@ -25,7 +25,6 @@ int main() {
         }else{
             cout << "Any\n";
         }
-
         t--;
     }
     return 0;
