@@ -7,7 +7,6 @@ int main() {
 
     while(t--){
         string s, t;
-
         cin >> s >> t;
 
         string m;
